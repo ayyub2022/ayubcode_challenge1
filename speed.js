@@ -15,4 +15,4 @@ function checkSpeed(speed) {
 }
 
 // Example usage:
-checkSpeed(80); // Should print: "Points: 2"
+checkSpeed(80); // Should print: "Points: 2"r
