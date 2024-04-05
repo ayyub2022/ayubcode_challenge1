@@ -1,27 +1,17 @@
-# (codechallenge1)
+# Title
+Code challenge week one
 
 #### Date, 2024/04/2
 
-#### By *Ayub Hussein*
-
-
-## Installation
-You use git clone to be able to download the documents in the GitHub
-
-## Installation Requirements
-Git
-
-### Installation instruction
-create repository
-Git clone https://github.com/ayyub2022/ayubcode_challenge1.git
-
+#### Author
+Ayub Hussein
 
 ## Technologies used
-Github
+HTML
 Javascript
 
 ## Support and contact details
-github.com/Ayub Hussein
+github.com/Ayub Hussein https://github.com/ayyub2022/ayubcode_challenge1.git
 
 ### License
 Copyright (c) 2024.
